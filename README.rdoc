@@ -5,3 +5,5 @@ This is a Saas app to connect pro musicians.
 Features stripe integration for payments and devise for registrations.
 
 https://musician-link.herokuapp.com/
+
+Currently serving Colorado musicians.
